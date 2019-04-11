@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jewelry</string>
+    <string name="new_jewel">New Jewel</string>
+    <string name="type">Jewel type</string>
+    <string name="orders">Orders</string>
+    <string name="jewelry_name">Winston\'s Jewelry</string>
+    <string name="material">Material to be used</string>
+    <string name="stone">Stone type</string>
+    <string name="engraved">Engrave jewel</string>
+    <string name="price">Price</string>
+    <string name="place_order">Place order</string>
+    <string name="silver">Silver</string>
+    <string name="steel">Steel</string>
+    <string name="gold">Gold</string>
+    <string name="ruby">Ruby</string>
+    <string name="emerald">Emerald</string>
+    <string name="quartz">Quartz</string>
+    <string name="chain">Chain</string>
+    <string name="bracelet">Bracelet</string>
+
+    <string-array name="menu">
+        <item>@string/new_jewel</item>
+        <item>@string/orders</item>
+    </string-array>
+
+    <string-array name="metals">
+        <item>@string/gold</item>
+        <item>@string/silver</item>
+        <item>@string/steel</item>
+    </string-array>
+
+    <string-array name="stones">
+        <item>@string/ruby</item>
+        <item>@string/emerald</item>
+        <item>@string/quartz</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>@string/chain</item>
+        <item>@string/bracelet</item>
+    </string-array>
+
+
+
+</resources>

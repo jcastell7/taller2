@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Joyeria</string>
+    <string name="new_jewel">Nueva Joya</string>
+    <string name="type">Tipo de Joya</string>
+    <string name="orders">Ordenes</string>
+    <string name="jewelry_name">Joyería de Winston</string>
+    <string name="material">Material a utilizar</string>
+    <string name="stone">Tipo de piedra</string>
+    <string name="engraved">Marcar Joya</string>
+    <string name="price">Precio</string>
+    <string name="place_order">Ordenar</string>
+    <string name="silver">Plata</string>
+    <string name="steel">Acero</string>
+    <string name="gold">Oro</string>
+    <string name="ruby">Rubí</string>
+    <string name="emerald">Esmeralda</string>
+    <string name="quartz">Cuarzo</string>
+    <string name="chain">Cadena</string>
+    <string name="bracelet">Pulcera</string>
+
+    <string-array name="menu">
+        <item>@string/new_jewel</item>
+        <item>@string/orders</item>
+    </string-array>
+
+    <string-array name="metals">
+        <item>@string/gold</item>
+        <item>@string/silver</item>
+        <item>@string/steel</item>
+    </string-array>
+
+    <string-array name="stones">
+        <item>@string/ruby</item>
+        <item>@string/emerald</item>
+        <item>@string/quartz</item>
+
+    </string-array>
+
+    <string-array name="type">
+        <item>@string/chain</item>
+        <item>@string/bracelet</item>
+    </string-array>
+
+
+
+</resources>
